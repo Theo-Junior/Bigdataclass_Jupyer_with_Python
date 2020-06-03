@@ -1,0 +1,10 @@
+score_phrase - 구분
+title - 게임명
+url - 전체 리뷰를 볼 수 있는 URL
+platform - 플랫폼(PC, PS4등등)
+score - 점수(1.0 ~ 10.0)
+genre - 장르
+editors_choice - 편집자가 선택한된 경우(Y)
+release_year - 출시년도
+release_month - 출시월
+release_day - 출시일
