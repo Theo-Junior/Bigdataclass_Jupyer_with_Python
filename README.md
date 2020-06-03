@@ -9,10 +9,10 @@ Jupyter_Python의 강의는 총 7일.
 
 [학습]  
 - **Jupyter_Python의 학습 목표 : 빅데이터 플랫폼 요구사항 분석 및 아키텍처 설계 : 56 H ** 
-- Class 01 : 수강 전        
-- Class 02 : 수강 전  
-- Class 03 : 수강 전  
-- Class 04 : 수강 전     
+- Class 01 : Data Controll Library 둘러보기 / Numpy 학습 및 기본 통계 기법 학습 / Numpy 기본 실습 및 예제 풀이 / 데이터 구조 학습          
+- Class 02 : 데이터 둘러보기(요약, 통계) 등 함수 / 전처리 가공에 대한 개념 및 학습 / 크롤링 개념 및 관련 라이브러리 학습 / Pandas 라이브러리 학습
+- Class 03 : 데이터 수집 및 처리 학습(크롤링 & Pandas 기초 실습) / 데이터 수집 및 처리 실습(영화 순위 크롤링 후 처리 ) / 배열 계산 및 처리 함수 실습  
+- Class 04 : Pandas 심화 학습 / DataFrame, Col-Row Slicing 학습 / 중간 테스트 실시 / 중간 학습 리뷰  
 - Class 05 : 수강 전    
 - Class 06 : 수강 전    
 - Class 07 : 수강 전    
