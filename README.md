@@ -13,15 +13,9 @@ Jupyter_Python의 강의는 총 7일.
 - Class 02 : 데이터 둘러보기(요약, 통계) 등 함수 / 전처리 가공에 대한 개념 및 학습 / 크롤링 개념 및 관련 라이브러리 학습 / Pandas 라이브러리 학습
 - Class 03 : 데이터 수집 및 처리 학습(크롤링 & Pandas 기초 실습) / 데이터 수집 및 처리 실습(영화 순위 크롤링 후 처리 ) / 배열 계산 및 처리 함수 실습  
 - Class 04 : Pandas 심화 학습 / DataFrame, Col-Row Slicing 학습 / 중간 테스트 실시 / 중간 학습 리뷰  
-- Class 05 : 수강 전    
-- Class 06 : 수강 전    
-- Class 07 : 수강 전    
-- Class 08 : 수강 전    
-- Class 09 : 수강 전    
-- Class 10 : 수강 전   
-- Class 11 : 수강 전    
-- Class 12 : 수강 전    
-
+- Class 05 : Numpy 학습 / Matplot 학습 / DataFrame 기본 및 전처리 학습(슬라이싱, 인덱싱, 컬럼 변환) / Excel Read 및 처리   
+- Class 06 : Matplot Plot 학습 / 다양한 Plot 예제 실습 / Excel(.csv) Read 및 전처리 후 그래프 그리기  
+- Class 07 : 과정 리뷰 및 마무리 평가      
 <hr>
 
 작성 : THEO KIM   
