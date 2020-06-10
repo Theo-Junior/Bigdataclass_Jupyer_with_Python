@@ -15,7 +15,9 @@ Jupyter_Python의 강의는 총 7일.
 - Class 04 : Pandas 심화 학습 / DataFrame, Col-Row Slicing 학습 / 중간 테스트 실시 / 중간 학습 리뷰  
 - Class 05 : Numpy 학습 / Matplot 학습 / DataFrame 기본 및 전처리 학습(슬라이싱, 인덱싱, 컬럼 변환) / Excel Read 및 처리   
 - Class 06 : Matplot Plot 학습 / 다양한 Plot 예제 실습 / Excel(.csv) Read 및 전처리 후 그래프 그리기  
-- Class 07 : 과정 리뷰 및 마무리 평가      
+- Class 07 : 과정 리뷰 및 중간 평가 / Pandas Groupby, Sorting, Indexing, Slicing 학습 / Folium 라이브러리 활용 지도 다루기 실습  
+- Class 08 : Pandas Groupby, Sorting, Indexing, Slicing 학습 / Folium 라이브러리 활용 지도 다루기 복습 및 데이터 가공처리 복습  
+- Class 09 : BeautifulSoup을 활용한 크롤링 / Selenium을 활용한 웹 제어 / 라이브러리를 활용해 수집한 데이터 가공 처리 실습   
 <hr>
 
 작성 : THEO KIM   
@@ -42,7 +44,7 @@ Jupyter_Python의 강의는 총 7일.
 * 빅데이터 저장시스템 개발 : 32 H   
 * 빅데이터 처리시스템 개발 : 32 H** 
 * 빅데이터 분석 플랫폼 시스템 개발 : 64 -> 96 H 
-* **빅데이터 플랫폼 요구사항 분석 및 아키텍처 설계 : 56 H**
+* **빅데이터 플랫폼 요구사항 분석 및 아키텍처 설계 : 56 -> 72 H**
 * 데이터 입출력 구현 : 32 H 
 * 통계기반 데이터 분석 : 32 H 
 * 머신러닝기반 데이터 분석 56 H
